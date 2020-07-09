@@ -7,3 +7,8 @@ h1{
 h3{
     color: lightcyan;
 }
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: mediumspringgreen;
+}
